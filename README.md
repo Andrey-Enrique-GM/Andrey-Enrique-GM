@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, HTML, JavaScript
 - ✨ My favorite programming language: Python
 - 💞️ I’m looking to collaborate on ...
-- 🌮🌭 I know Spanish and English
+- 🇲🇽 I know Spanish and English 🇺🇲
 - 📫 How to reach me: andreyenrique132@gmail.com
 - ⚡ Fun fact: ...
 - 🎴 Also programming RenPy
