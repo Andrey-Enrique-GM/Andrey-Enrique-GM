@@ -5,8 +5,9 @@
 - ✨ My favorite programming language: Python
 - 💞️ I’m looking to collaborate on ...
 - 🇲🇽 I know Spanish and English 🇺🇲
-- 📫 How to reach me: andreyenrique132@gmail.com
-- ⚡ Fun fact: ...
+- 📫 How to reach me: andreyenrique132@gmail.com or https://www.instagram.com/andrey_chihuahua.lover/profilecard/
+- ⚡ Fun fact: I love chihuahuas dogs!
+- 🦐​ I like to draw and design
 - 🎴 Also programming RenPy
 
 <!---
