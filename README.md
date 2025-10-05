@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Andrey Enrique
 - 👀 I’m interested in software and hardware programming
-- 😄 Skills: Python, Arduino, Assembly, Ladder Logic
-- 🌱 I’m currently learning Java, HTML, JavaScript
-- ✨ My favorite programming language: Python
-- 💞️ I’m looking to collaborate on ...
+- 😄 Skills: Java, Python, Arduino, Assembly, Ladder Logic
+- 🌱 I’m currently learning HTML, JavaScript
+- ✨ My favorite programming language: Java
 - 🇲🇽 I know Spanish and English 🇺🇲
 - 📫 How to reach me: andreyenrique132@gmail.com or https://www.instagram.com/andrey_chihuahua.lover/profilecard/
 - ⚡ Fun fact: I love chihuahuas dogs!
