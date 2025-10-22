@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Enrique
 - 👀 I’m interested in software and hardware programming
-- 😄 Skills: Java, Python, Arduino, Assembly, Ladder Logic
+- 😄 Skills: Java, Python, SQL, Arduino, Assembly, Ladder Logic
 - 🌱 I’m currently learning HTML, JavaScript
 - ✨ My favorite programming language: Java
 - 🇲🇽 I know Spanish and English 🇺🇲
