@@ -54,8 +54,7 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrey-Enrique-GM&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de Andrey" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Enrique-GM&layout=compact&theme=dark" alt="Lenguajes más usados" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Enrique-GM&theme=dark" alt="Racha de GitHub" />
 </p>
 
 
