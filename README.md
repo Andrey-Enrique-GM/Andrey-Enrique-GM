@@ -40,7 +40,7 @@
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
 | **Echo** | Aplicación web de simulación de rol y conversación interactiva con personajes dinámicos y expresiones emocionales. | Python, Flask, Jinja2, Render |
-| **Chihuahuateca** | Aplicación web con base de datos remota y sistema de cuentas para gestion de colecciones propias, mas exactamente libros y peliculas. | Python, Flask, Jinja2, Render, Aiven |
+| **Chihuahuateca** | Aplicación web con base de datos remota y sistema de cuentas para gestion de colecciones propias, mas exactamente libros y peliculas. | Python, Flask, SQL Avanzado, Criptografía, Jinja2, Render, Aiven |
 | **Re: Quest** | Aplicación web de adivinanza de palabras con sistema de autenticación seguro mediante criptografía/cifrado de datos y tabla de clasificación en tiempo real. | Python, Flask, SQL, Criptografía |
 | **Mercado Cheems** | Plataforma web de gestión de inventario y tienda en línea, optimizada con funciones avanzadas y procedimientos en base de datos. | Python, Flask, SQL Avanzado |
 | **DokiPOS** | Sistema de Punto de Venta (POS) comercial. | Java, Swing/AWT, MySQL, Arquitectura MVC |
